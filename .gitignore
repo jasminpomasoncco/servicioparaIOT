@@ -1,0 +1,7 @@
+.deta/
+.DS_Store
+.idea/
+__pycache__/
+*.db
+.node_modules/
+```
